@@ -1,0 +1,15 @@
+.temperature-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 30px;
+  background: beige;
+  border-radius: 20px;
+  width: 500px;
+  margin: 100px auto;
+}
+
+input[type="number"] {
+  margin: 10px;
+}
